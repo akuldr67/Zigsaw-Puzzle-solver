@@ -5,6 +5,6 @@ A program which solves any jigsaw puzzle with the help of Computer Vision techni
 Assumption - puzzle's pieces given to 2d.py as input are not rotated. That is, a given piece can come in final output at any place but without any rotation of angle(90/180/270/360 degrees).  
   
 Algorithm:  
-***to be declared***  
+***to be explained***  
   
 There is a threshold in 2d.py. If while running 2d.py got an error: list index out of range, increase the threshold. For better result, keep threshold as low as possible.
